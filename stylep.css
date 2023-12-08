@@ -1,0 +1,10 @@
+nav-item a:hover {
+    background-color:white;
+    color:white;
+}
+
+body{
+    background-image:url("https://img.freepik.com/premium-photo/nurse-hospital-ward_1001743-3669.jpg?size=626&ext=jpg&ga=GA1.1.817672474.1702028408&semt=sph");
+    background-size:cover;
+    height:100vh;
+}

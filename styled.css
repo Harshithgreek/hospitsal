@@ -1,0 +1,10 @@
+nav-item a:hover {
+    background-color:black;
+    color:white;
+}
+
+body{
+    background-image:url("https://img.freepik.com/premium-photo/man-doctor-hospital_488220-26806.jpg?w=1060");
+    background-size:cover;
+    height:100vh;
+}
